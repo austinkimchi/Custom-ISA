@@ -33,5 +33,8 @@ An implementation following a custom 32-bit pipelined Instruction Set Architectu
 - Report & Testbench + waveform validation
 - CPI and timing analysis
 
+## Datapath
+![Datapath](./assets/Datapath.png)
+
 ### Report
 Read full report [here](./ISA_Report_AustinKim.pdf).
